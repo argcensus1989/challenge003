@@ -6,8 +6,8 @@ on:
   workflow_dispatch:
     inputs:
       # Change this value
-      solution_name: 
-        description: 'Challenge003'
+      solution_name:
+        description: 'name of the solution to worked on from Power Platform'
         required: true
         default: Challenge003
        #Do Not change these values
