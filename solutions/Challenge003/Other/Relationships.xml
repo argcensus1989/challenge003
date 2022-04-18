@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<EntityRelationships xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <EntityRelationship Name="business_unit_crbf4_challenges" />
+  <EntityRelationship Name="lk_crbf4_challenges_createdby" />
+  <EntityRelationship Name="lk_crbf4_challenges_modifiedby" />
+  <EntityRelationship Name="owner_crbf4_challenges" />
+  <EntityRelationship Name="team_crbf4_challenges" />
+  <EntityRelationship Name="user_crbf4_challenges" />
+</EntityRelationships>
